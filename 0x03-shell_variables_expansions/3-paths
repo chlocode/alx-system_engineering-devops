@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$(find . -type d | du)
+PATH=$(find .$PATH -type d | du)
