@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $TRUEKNOWLEDGE | id++ 128
+echo $TRUEKNOWLEDGE | $TRUEKNOWLEDGE+=128
